@@ -61,13 +61,13 @@ RentEase/
 ## Screenshots
 
 ### Home Page
-![Home Page](frontend/public/sample-1.png)
+![Home Page](RentEase-main/frontend/public/sample-1.png)
 
 ### Browse Rentals
-![Browse Rentals](frontend/public/sample-2.png)
+![Browse Rentals](RentEase-main/frontend/public/sample-2.png)
 
 ### Rental Listings
-![Rental Listings](frontend/public/sample-3.png)
+![Rental Listings](RentEase-main/frontend/public/sample-3.png)
 
 ## Installation and Setup
 
