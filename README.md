@@ -58,16 +58,14 @@ RentEase/
 └── README.md
 ```
 
-## Screenshots
-
 ### Home Page
-![Home Page](RentEase-main/frontend/public/sample-1.png)
+![Home Page](frontend/public/sample-1.png)
 
 ### Browse Rentals
-![Browse Rentals](RentEase-main/frontend/public/sample-2.png)
+![Browse Rentals](frontend/public/sample-2.png)
 
 ### Rental Listings
-![Rental Listings](RentEase-main/frontend/public/sample-3.png)
+![Rental Listings](frontend/public/sample-3.png)
 
 ## Installation and Setup
 
